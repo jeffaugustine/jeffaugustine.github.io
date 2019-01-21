@@ -370,7 +370,7 @@ let data = [
   *
   **************/
   {
-    cat: "virtualization", name: "Docker", value: 30,
+    cat: "Virtualization", name: "Docker", value: 30,
     icon: "img/docker.svg",
     desc: `
       Docker is a computer program that performs operating-system-level
@@ -378,7 +378,7 @@ let data = [
     `
   },
   {
-    cat: "virtualization", name: "K8s", value: 30,
+    cat: "Virtualization", name: "K8s", value: 30,
     icon: "img/k8s.png",
     desc: `
       Kubernetes is an open-source container-orchestration system for automating
@@ -388,7 +388,7 @@ let data = [
     `
   },
   {
-    cat: "virtualization", name: "Helm", value: 10,
+    cat: "Virtualization", name: "Helm", value: 10,
     icon: "img/helm.svg",
     desc: `
       Helm helps you manage Kubernetes applications — Helm Charts helps you
@@ -396,7 +396,7 @@ let data = [
     `
   },
   {
-    cat: "virtualization", name: "KVM", value: 10,
+    cat: "Virtualization", name: "KVM", value: 10,
     icon: "img/kvm.png",
     desc: `
       Kernel-based Virtual Machine is a virtualization module in the Linux
@@ -404,7 +404,7 @@ let data = [
     `
   },
   {
-    cat: "virtualization", name: "ECOMP / ONAP", value: 10,
+    cat: "Virtualization", name: "ECOMP / ONAP", value: 10,
     icon: "img/onap.png",
     desc: `
       ONAP - the Open Networking Automation Platform. On February 23, 2017, ONAP
